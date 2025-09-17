@@ -1,0 +1,33 @@
+let name = "Kevin-smith";
+console.log(name);
+const favouriteNumber = 99;
+console.log(favouriteNumber);
+var a = 5;
+var b = 10;
+var a = b;
+var b = a;
+console.log(a);
+var x = 7;
+var y = 3;
+var sum = x + y;
+console.log(sum);
+var age = 22;
+var futureAge = age + 10;
+console.log(futureAge);
+let temperature = "Today\' temperature is ";
+temperature += "19°C ";
+console.log(temperature);
+let firstName = "Kevin-Smith ";
+let lastName = "Uzoma";
+let fullName = firstName + lastName;
+console.log(fullName);
+const length = 5;
+const width = 6;
+result = length * width;
+console.log(result);
+const daysInWeek = 7;
+console.log("There are 7 days in a week " + daysInWeek)
+var balance = 100;
+var deposit = 50;
+newBalance = balance + deposit;
+console.log(newBalance)
